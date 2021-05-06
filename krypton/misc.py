@@ -1,11 +1,11 @@
-HELP_TEXT = """__**I Can Play Music In The Voice Chat**__
+HELP_TEXT = """__**Səsli söhbət üçün mahnı botu**__
 
-**/start** __To Start The bot.__
-**/help** __To Show This Message.__
+**/start** __Botu başlamaq üçün.__
+**/help** __Köməklik üçün.__
 **/ping** __To Show Latency Bot.__
-**/skip** __To Skip The Current Playing Music.__
-**/play** __youtube/saavn/deezer song_name__
-**/stop** __To Stop Playing Music.__
+**/skip** __Növbəti mahnı.__
+**/play** __Mahnı qoşmaq üçün adını yazın__
+**/stop** __Mahnını durdurmaq.__
 **/join** __To Join A Voice Chat.__
 **/leave** __To Leave A Voice Chat.__
 **/mute** __To Mute A Bot.__
